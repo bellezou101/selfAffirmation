@@ -14,6 +14,25 @@
 		793614FE24BE2AC600D4F628 /* selfAffirmation.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 793614FC24BE2AC600D4F628 /* selfAffirmation.xcdatamodeld */; };
 		7936150024BE2AC900D4F628 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 793614FF24BE2AC900D4F628 /* Assets.xcassets */; };
 		7936150324BE2AC900D4F628 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7936150124BE2AC900D4F628 /* LaunchScreen.storyboard */; };
+		7936151F24BE625E00D4F628 /* ImageSix.png in Resources */ = {isa = PBXBuildFile; fileRef = 7936150A24BE625C00D4F628 /* ImageSix.png */; };
+		7936152024BE625E00D4F628 /* ImageSeventeen.png in Resources */ = {isa = PBXBuildFile; fileRef = 7936150B24BE625C00D4F628 /* ImageSeventeen.png */; };
+		7936152124BE625E00D4F628 /* ImageEleven.png in Resources */ = {isa = PBXBuildFile; fileRef = 7936150C24BE625C00D4F628 /* ImageEleven.png */; };
+		7936152224BE625E00D4F628 /* imageOne.png in Resources */ = {isa = PBXBuildFile; fileRef = 7936150D24BE625C00D4F628 /* imageOne.png */; };
+		7936152324BE625E00D4F628 /* ImageFour.png in Resources */ = {isa = PBXBuildFile; fileRef = 7936150E24BE625C00D4F628 /* ImageFour.png */; };
+		7936152424BE625E00D4F628 /* ImageFive.png in Resources */ = {isa = PBXBuildFile; fileRef = 7936150F24BE625C00D4F628 /* ImageFive.png */; };
+		7936152524BE625E00D4F628 /* ImageNineteen.png in Resources */ = {isa = PBXBuildFile; fileRef = 7936151024BE625C00D4F628 /* ImageNineteen.png */; };
+		7936152624BE625E00D4F628 /* ImageFifteen.png in Resources */ = {isa = PBXBuildFile; fileRef = 7936151124BE625C00D4F628 /* ImageFifteen.png */; };
+		7936152724BE625E00D4F628 /* ImageNine.png in Resources */ = {isa = PBXBuildFile; fileRef = 7936151224BE625C00D4F628 /* ImageNine.png */; };
+		7936152824BE625E00D4F628 /* imageTwo.png in Resources */ = {isa = PBXBuildFile; fileRef = 7936151324BE625C00D4F628 /* imageTwo.png */; };
+		7936152924BE625E00D4F628 /* ImageSeven.png in Resources */ = {isa = PBXBuildFile; fileRef = 7936151424BE625D00D4F628 /* ImageSeven.png */; };
+		7936152A24BE625E00D4F628 /* ImageTwelve.png in Resources */ = {isa = PBXBuildFile; fileRef = 7936151524BE625D00D4F628 /* ImageTwelve.png */; };
+		7936152C24BE625E00D4F628 /* ImageThirteen.png in Resources */ = {isa = PBXBuildFile; fileRef = 7936151724BE625D00D4F628 /* ImageThirteen.png */; };
+		7936152D24BE625E00D4F628 /* ImageFourteen.png in Resources */ = {isa = PBXBuildFile; fileRef = 7936151824BE625D00D4F628 /* ImageFourteen.png */; };
+		7936152E24BE625E00D4F628 /* ImageSixteen.png in Resources */ = {isa = PBXBuildFile; fileRef = 7936151924BE625D00D4F628 /* ImageSixteen.png */; };
+		7936152F24BE625E00D4F628 /* imageThree.png in Resources */ = {isa = PBXBuildFile; fileRef = 7936151A24BE625D00D4F628 /* imageThree.png */; };
+		7936153024BE625E00D4F628 /* ImageEighteen.png in Resources */ = {isa = PBXBuildFile; fileRef = 7936151B24BE625D00D4F628 /* ImageEighteen.png */; };
+		7936153124BE625E00D4F628 /* ImageTen.png in Resources */ = {isa = PBXBuildFile; fileRef = 7936151C24BE625D00D4F628 /* ImageTen.png */; };
+		7936153224BE625E00D4F628 /* ImageEight.png in Resources */ = {isa = PBXBuildFile; fileRef = 7936151D24BE625D00D4F628 /* ImageEight.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +45,25 @@
 		793614FF24BE2AC900D4F628 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7936150224BE2AC900D4F628 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7936150424BE2AC900D4F628 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7936150A24BE625C00D4F628 /* ImageSix.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ImageSix.png; path = ../../ImageSix.png; sourceTree = "<group>"; };
+		7936150B24BE625C00D4F628 /* ImageSeventeen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ImageSeventeen.png; path = ../../ImageSeventeen.png; sourceTree = "<group>"; };
+		7936150C24BE625C00D4F628 /* ImageEleven.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ImageEleven.png; path = ../../ImageEleven.png; sourceTree = "<group>"; };
+		7936150D24BE625C00D4F628 /* imageOne.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = imageOne.png; path = ../../imageOne.png; sourceTree = "<group>"; };
+		7936150E24BE625C00D4F628 /* ImageFour.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ImageFour.png; path = ../../ImageFour.png; sourceTree = "<group>"; };
+		7936150F24BE625C00D4F628 /* ImageFive.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ImageFive.png; path = ../../ImageFive.png; sourceTree = "<group>"; };
+		7936151024BE625C00D4F628 /* ImageNineteen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ImageNineteen.png; path = ../../ImageNineteen.png; sourceTree = "<group>"; };
+		7936151124BE625C00D4F628 /* ImageFifteen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ImageFifteen.png; path = ../../ImageFifteen.png; sourceTree = "<group>"; };
+		7936151224BE625C00D4F628 /* ImageNine.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ImageNine.png; path = ../../ImageNine.png; sourceTree = "<group>"; };
+		7936151324BE625C00D4F628 /* imageTwo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = imageTwo.png; path = ../../imageTwo.png; sourceTree = "<group>"; };
+		7936151424BE625D00D4F628 /* ImageSeven.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ImageSeven.png; path = ../../ImageSeven.png; sourceTree = "<group>"; };
+		7936151524BE625D00D4F628 /* ImageTwelve.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ImageTwelve.png; path = ../../ImageTwelve.png; sourceTree = "<group>"; };
+		7936151724BE625D00D4F628 /* ImageThirteen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ImageThirteen.png; path = ../../ImageThirteen.png; sourceTree = "<group>"; };
+		7936151824BE625D00D4F628 /* ImageFourteen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ImageFourteen.png; path = ../../ImageFourteen.png; sourceTree = "<group>"; };
+		7936151924BE625D00D4F628 /* ImageSixteen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ImageSixteen.png; path = ../../ImageSixteen.png; sourceTree = "<group>"; };
+		7936151A24BE625D00D4F628 /* imageThree.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = imageThree.png; path = ../../imageThree.png; sourceTree = "<group>"; };
+		7936151B24BE625D00D4F628 /* ImageEighteen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ImageEighteen.png; path = ../../ImageEighteen.png; sourceTree = "<group>"; };
+		7936151C24BE625D00D4F628 /* ImageTen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ImageTen.png; path = ../../ImageTen.png; sourceTree = "<group>"; };
+		7936151D24BE625D00D4F628 /* ImageEight.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ImageEight.png; path = ../../ImageEight.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +101,25 @@
 				793614F724BE2AC600D4F628 /* ViewController.swift */,
 				793614F924BE2AC600D4F628 /* Main.storyboard */,
 				793614FF24BE2AC900D4F628 /* Assets.xcassets */,
+				7936150D24BE625C00D4F628 /* imageOne.png */,
+				7936151324BE625C00D4F628 /* imageTwo.png */,
+				7936151A24BE625D00D4F628 /* imageThree.png */,
+				7936150E24BE625C00D4F628 /* ImageFour.png */,
+				7936150F24BE625C00D4F628 /* ImageFive.png */,
+				7936150A24BE625C00D4F628 /* ImageSix.png */,
+				7936151424BE625D00D4F628 /* ImageSeven.png */,
+				7936151D24BE625D00D4F628 /* ImageEight.png */,
+				7936151224BE625C00D4F628 /* ImageNine.png */,
+				7936151C24BE625D00D4F628 /* ImageTen.png */,
+				7936150C24BE625C00D4F628 /* ImageEleven.png */,
+				7936151524BE625D00D4F628 /* ImageTwelve.png */,
+				7936151724BE625D00D4F628 /* ImageThirteen.png */,
+				7936151824BE625D00D4F628 /* ImageFourteen.png */,
+				7936151124BE625C00D4F628 /* ImageFifteen.png */,
+				7936151924BE625D00D4F628 /* ImageSixteen.png */,
+				7936150B24BE625C00D4F628 /* ImageSeventeen.png */,
+				7936151B24BE625D00D4F628 /* ImageEighteen.png */,
+				7936151024BE625C00D4F628 /* ImageNineteen.png */,
 				7936150124BE2AC900D4F628 /* LaunchScreen.storyboard */,
 				7936150424BE2AC900D4F628 /* Info.plist */,
 				793614FC24BE2AC600D4F628 /* selfAffirmation.xcdatamodeld */,
@@ -129,8 +186,27 @@
 			buildActionMask = 2147483647;
 			files = (
 				7936150324BE2AC900D4F628 /* LaunchScreen.storyboard in Resources */,
+				7936152824BE625E00D4F628 /* imageTwo.png in Resources */,
 				7936150024BE2AC900D4F628 /* Assets.xcassets in Resources */,
+				7936152F24BE625E00D4F628 /* imageThree.png in Resources */,
+				7936152024BE625E00D4F628 /* ImageSeventeen.png in Resources */,
+				7936152624BE625E00D4F628 /* ImageFifteen.png in Resources */,
+				7936152C24BE625E00D4F628 /* ImageThirteen.png in Resources */,
+				7936152724BE625E00D4F628 /* ImageNine.png in Resources */,
+				7936153224BE625E00D4F628 /* ImageEight.png in Resources */,
+				7936153124BE625E00D4F628 /* ImageTen.png in Resources */,
+				7936152424BE625E00D4F628 /* ImageFive.png in Resources */,
+				7936152D24BE625E00D4F628 /* ImageFourteen.png in Resources */,
+				7936151F24BE625E00D4F628 /* ImageSix.png in Resources */,
+				7936152124BE625E00D4F628 /* ImageEleven.png in Resources */,
+				7936152E24BE625E00D4F628 /* ImageSixteen.png in Resources */,
+				7936152524BE625E00D4F628 /* ImageNineteen.png in Resources */,
+				7936152A24BE625E00D4F628 /* ImageTwelve.png in Resources */,
+				7936153024BE625E00D4F628 /* ImageEighteen.png in Resources */,
+				7936152924BE625E00D4F628 /* ImageSeven.png in Resources */,
+				7936152224BE625E00D4F628 /* imageOne.png in Resources */,
 				793614FB24BE2AC600D4F628 /* Main.storyboard in Resources */,
+				7936152324BE625E00D4F628 /* ImageFour.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
